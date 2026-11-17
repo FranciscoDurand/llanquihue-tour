@@ -1,0 +1,5 @@
+Ruta de la Cecina;Gastronomico;25000
+Navegacion Lago Llanquihue;Lacustre;18000
+Circuito Frutillar Cultural;Cultural;22000
+Sabores del Sur;Gastronomico;30000
+Ascenso Volcan Osorno;Aventura;45000
